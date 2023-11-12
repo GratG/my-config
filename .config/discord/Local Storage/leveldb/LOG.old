@@ -1,0 +1,8 @@
+2023/04/16-14:24:12.965 581 Reusing MANIFEST /home/grant/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/16-14:24:12.966 581 Recovering log #10
+2023/04/16-14:24:13.136 581 Level-0 table #13: started
+2023/04/16-14:24:13.397 581 Level-0 table #13: 19449 bytes OK
+2023/04/16-14:24:13.584 581 Delete type=0 #10
+2023/04/16-14:28:17.147 582 Level-0 table #16: started
+2023/04/16-14:28:17.246 582 Level-0 table #16: 1552586 bytes OK
+2023/04/16-14:28:17.287 582 Delete type=0 #14

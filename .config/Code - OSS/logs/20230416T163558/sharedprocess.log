@@ -1,0 +1,57 @@
+2023-04-16 16:36:04.513 [info] Started initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode-oss/extensions
+2023-04-16 16:36:08.413 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode-oss/extensions
+2023-04-16 16:36:08.587 [info] Starting worker process with pid 1295 (type: fileWatcher, window: 1).
+2023-04-16 16:36:36.183 [info] Getting Manifest... ms-python.python
+2023-04-16 16:36:36.935 [info] Installing extension: ms-python.python
+2023-04-16 16:36:37.240 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-16 16:36:38.154 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-16 16:36:38.578 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-16 16:36:39.005 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:39.115 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-16 16:36:39.439 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:39.518 [info] Installing extension: ms-toolsai.jupyter
+2023-04-16 16:36:39.983 [info] Waiting for already requested installing extension ms-toolsai.jupyter ms-python.python
+2023-04-16 16:36:39.983 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-04-16 16:36:39.984 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-04-16 16:36:39.984 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-04-16 16:36:39.984 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-04-16 16:36:40.227 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-16 16:36:40.242 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-16 16:36:40.247 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:40.254 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:40.748 [info] Extension signature verification is not done: ms-toolsai.jupyter-keymap
+2023-04-16 16:36:40.771 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.dad66b34-e8d7-4c34-a189-a4d4313e0910: ms-toolsai.jupyter-keymap
+2023-04-16 16:36:40.815 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+2023-04-16 16:36:40.816 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-04-16 16:36:40.905 [info] Extension signature verification is not done: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:40.930 [info] Extension signature verification is not done: ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:40.941 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.94feb0f3-3e69-4a04-8162-3a6c434b0623: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:40.950 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.97cd5b06-3f2d-4ca3-8c11-59c52d4aa8fe: ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:40.998 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8-universal
+2023-04-16 16:36:40.999 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:41.032 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-04-16 16:36:41.033 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:42.666 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2023-04-16 16:36:42.897 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.af818bd6-bd32-4c01-abf7-f03f19d22f6e: ms-toolsai.jupyter-renderers
+2023-04-16 16:36:42.958 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.15-universal
+2023-04-16 16:36:42.960 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-16 16:36:48.029 [info] Extension signature verification is not done: ms-python.python
+2023-04-16 16:36:49.496 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.bbeccf68-3e6b-48d7-af69-90fdbd43725c: ms-python.python
+2023-04-16 16:36:49.583 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-python.python-2023.6.0-universal
+2023-04-16 16:36:49.586 [info] Extracting extension completed. ms-python.python
+2023-04-16 16:36:50.243 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2023-04-16 16:36:50.509 [info] Extracted extension to /home/grant/.vscode-oss/extensions/.3d151537-5a53-453e-8bd7-04f2b5d7e0f6: ms-toolsai.jupyter
+2023-04-16 16:36:50.578 [info] Renamed to /home/grant/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal
+2023-04-16 16:36:50.583 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-16 16:36:50.627 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-16 16:36:50.627 [info] Finished waiting for already requested installing extension ms-toolsai.jupyter ms-python.python
+2023-04-16 16:36:50.627 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-04-16 16:36:50.628 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:36:50.628 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:36:50.628 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-16 16:36:50.628 [info] Extension installed successfully: ms-python.python
+2023-04-16 16:37:09.226 [info] Worker process with pid 1295 terminated normally (type: fileWatcher, window: 1).
+2023-04-16 16:37:09.237 [info] Starting worker process with pid 1412 (type: fileWatcher, window: 1).
+2023-04-16 16:37:10.283 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-16 16:37:10.284 [info] Worker process with pid 1412 terminated normally (type: fileWatcher, window: 1).
+2023-04-16 16:37:10.296 [info] Starting worker process with pid 1424 (type: fileWatcher, window: 1).

@@ -1,0 +1,15 @@
+2023/04/18-20:03:11.970 318 Reusing MANIFEST /home/grant/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/18-20:03:12.040 318 Recovering log #15
+2023/04/18-20:03:12.077 318 Reusing old log /home/grant/.config/discord/Local Storage/leveldb/000015.log 
+2023/04/18-20:08:00.659 4b8 Level-0 table #19: started
+2023/04/18-20:08:00.747 4b8 Level-0 table #19: 1559294 bytes OK
+2023/04/18-20:08:00.789 4b8 Delete type=0 #15
+2023/04/18-20:08:00.789 4b8 Compacting 4@0 + 1@1 files
+2023/04/18-20:08:00.871 4b8 Generated table #20@0: 95 keys, 1574437 bytes
+2023/04/18-20:08:00.871 4b8 Compacted 4@0 + 1@1 files => 1574437 bytes
+2023/04/18-20:08:00.911 4b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/18-20:08:00.911 4b8 Delete type=2 #11
+2023/04/18-20:08:00.911 4b8 Delete type=2 #16
+2023/04/18-20:08:00.911 4b8 Delete type=2 #8
+2023/04/18-20:08:00.911 4b8 Delete type=2 #13
+2023/04/18-20:08:00.911 4b8 Delete type=2 #19

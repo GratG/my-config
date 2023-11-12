@@ -1,0 +1,108 @@
+2023-04-16 16:49:59.791 [info] Started initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode/extensions
+2023-04-16 16:49:59.986 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/grant/.vscode/extensions Unable to create file 'vscode-userdata:/home/grant/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-04-16 16:49:59.987 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode/extensions
+2023-04-16 16:50:15.029 [info] Getting Manifest... ms-python.python
+2023-04-16 16:50:15.035 [info] Installing extension: ms-python.python
+2023-04-16 16:50:17.242 [info] Getting Manifest... ms-vscode.cpptools
+2023-04-16 16:50:17.249 [info] Installing extension: ms-vscode.cpptools
+2023-04-16 16:50:17.387 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-16 16:50:17.689 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-16 16:50:17.727 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-16 16:50:17.765 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:50:17.803 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:50:17.839 [info] Getting Manifest... ms-python.vscode-pylance
+2023-04-16 16:50:17.927 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-04-16 16:50:17.927 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-04-16 16:50:17.927 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-04-16 16:50:17.927 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-04-16 16:50:17.927 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-04-16 16:50:17.927 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-04-16 16:50:21.632 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-keymap
+2023-04-16 16:50:21.650 [info] Extracted extension to /home/grant/.vscode/extensions/.7db21f4e-0a76-4840-bd53-6e2a3116194f: ms-toolsai.jupyter-keymap
+2023-04-16 16:50:22.422 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:50:22.441 [info] Extracted extension to /home/grant/.vscode/extensions/.62295536-8279-4daf-ad7d-1b2ea749866b: ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:50:22.518 [info] Renamed to /home/grant/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-04-16 16:50:22.519 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:50:22.520 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-04-16 16:50:22.545 [info] Extracted extension to /home/grant/.vscode/extensions/.ab4fbace-e13f-40b8-9760-95acdba6e4d4: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:50:22.589 [info] Renamed to /home/grant/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-04-16 16:50:22.592 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:50:22.650 [info] Renamed to /home/grant/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-04-16 16:50:22.656 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:50:23.162 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2023-04-16 16:50:23.407 [info] Extracted extension to /home/grant/.vscode/extensions/.645338bd-349d-4533-8b3f-bcb201a3a30b: ms-toolsai.jupyter-renderers
+2023-04-16 16:50:23.458 [info] Renamed to /home/grant/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-04-16 16:50:23.460 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-16 16:50:25.913 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-04-16 16:50:26.375 [info] Extracted extension to /home/grant/.vscode/extensions/.36d01850-ee7e-49e5-92e4-3cb175cf7621: ms-toolsai.jupyter
+2023-04-16 16:50:26.436 [info] Renamed to /home/grant/.vscode/extensions/ms-toolsai.jupyter-2023.3.1201040234
+2023-04-16 16:50:26.440 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-16 16:50:27.935 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-04-16 16:50:29.462 [info] Extracted extension to /home/grant/.vscode/extensions/.ef18df23-0095-4075-92f6-62ff3c0bc3bd: ms-python.python
+2023-04-16 16:50:29.522 [info] Renamed to /home/grant/.vscode/extensions/ms-python.python-2023.6.0
+2023-04-16 16:50:29.526 [info] Extracting extension completed. ms-python.python
+2023-04-16 16:50:34.347 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-04-16 16:50:34.349 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-04-16 16:50:37.783 [info] Extracted extension to /home/grant/.vscode/extensions/.6cd1bfcb-40e0-435e-82a7-bb145ae1321c: ms-vscode.cpptools
+2023-04-16 16:50:37.849 [info] Renamed to /home/grant/.vscode/extensions/ms-vscode.cpptools-1.14.5-linux-x64
+2023-04-16 16:50:37.857 [info] Extracting extension completed. ms-vscode.cpptools
+2023-04-16 16:50:37.913 [info] Extension installed successfully: ms-vscode.cpptools
+2023-04-16 16:50:38.598 [info] Extracted extension to /home/grant/.vscode/extensions/.4cfc9d76-7125-4ac2-b249-c51824e714c7: ms-python.vscode-pylance
+2023-04-16 16:50:38.648 [info] Renamed to /home/grant/.vscode/extensions/ms-python.vscode-pylance-2023.4.20
+2023-04-16 16:50:38.650 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-python.python
+2023-04-16 16:50:38.697 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-04-16 16:50:51.126 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:51.130 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:52.219 [info] Getting Manifest... ms-vscode.cpptools
+2023-04-16 16:50:52.230 [info] Getting Manifest... ms-vscode.cmake-tools
+2023-04-16 16:50:52.549 [info] Getting Manifest... twxs.cmake
+2023-04-16 16:50:52.788 [info] Getting Manifest... ms-vscode.cpptools-themes
+2023-04-16 16:50:52.890 [info] Installing extension: ms-vscode.cmake-tools ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:52.890 [info] Installing extension: twxs.cmake ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:52.891 [info] Installing extension: ms-vscode.cpptools-themes ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:53.680 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools-themes
+2023-04-16 16:50:53.695 [info] Extracted extension to /home/grant/.vscode/extensions/.1ed82038-79b0-4265-8d33-1ff0752ad67f: ms-vscode.cpptools-themes
+2023-04-16 16:50:53.747 [info] Renamed to /home/grant/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2023-04-16 16:50:53.748 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2023-04-16 16:50:54.069 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cmake-tools
+2023-04-16 16:50:54.275 [info] Extracted extension to /home/grant/.vscode/extensions/.c39a0c17-2ad2-49ff-9b9b-3df6821e3bc4: ms-vscode.cmake-tools
+2023-04-16 16:50:54.377 [info] Renamed to /home/grant/.vscode/extensions/ms-vscode.cmake-tools-1.13.45
+2023-04-16 16:50:54.381 [info] Extracting extension completed. ms-vscode.cmake-tools
+2023-04-16 16:50:54.923 [warning] Extension signature verification failed with error 'UnknownError': twxs.cmake
+2023-04-16 16:50:55.025 [info] Extracted extension to /home/grant/.vscode/extensions/.224575f1-5166-42f4-81fb-3eaec40bce4a: twxs.cmake
+2023-04-16 16:50:55.074 [info] Renamed to /home/grant/.vscode/extensions/twxs.cmake-0.0.17
+2023-04-16 16:50:55.075 [info] Extracting extension completed. twxs.cmake
+2023-04-16 16:50:55.717 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:55.722 [info] Extracted extension to /home/grant/.vscode/extensions/.b3432de7-8326-431a-9979-8cfd5daef8f0: ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:55.756 [info] Renamed to /home/grant/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2023-04-16 16:50:55.757 [info] Extracting extension completed. ms-vscode.cpptools-extension-pack
+2023-04-16 16:50:55.815 [info] Extension installed successfully: ms-vscode.cpptools-themes
+2023-04-16 16:50:55.815 [info] Extension installed successfully: ms-vscode.cmake-tools
+2023-04-16 16:50:55.816 [info] Extension installed successfully: twxs.cmake
+2023-04-16 16:50:55.816 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+2023-04-16 16:51:13.458 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at h.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:5588)
+    at h.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4988)
+    at /opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4377
+    at E.invoke (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:145)
+    at u.deliver (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:2121)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:1729)
+    at MessagePortMain.B (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:17:23772)
+    at MessagePortMain.emit (node:events:526:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-04-16 16:54:03.777 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at h.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:5588)
+    at h.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4988)
+    at /opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4377
+    at E.invoke (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:145)
+    at u.deliver (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:2121)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:1729)
+    at MessagePortMain.B (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:17:23772)
+    at MessagePortMain.emit (node:events:526:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)

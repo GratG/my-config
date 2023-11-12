@@ -1,0 +1,15 @@
+2023-04-16 16:49:59.157 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:49:59.167 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:49:59.167 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:49:59.167 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:49:59.516 [info] Started initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode/extensions
+2023-04-16 16:49:59.987 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/grant/.vscode/extensions
+2023-04-16 16:50:02.595 [info] [perf] Render performance baseline is 33ms
+2023-04-16 16:50:34.218 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:50:34.228 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:50:34.229 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:50:34.229 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-16 16:50:37.990 [info] [perf] Render performance baseline is 34ms
+2023-04-16 16:50:45.281 [error] [Extension Host] (node:14294) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-04-16 16:50:55.869 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
